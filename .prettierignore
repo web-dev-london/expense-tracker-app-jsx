@@ -1,0 +1,12 @@
+**/.git
+**/.svn
+**/.hg
+**/.bzr
+**/.gitignore
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
+**/CVS
+**/node_modules
+
+**/*.JSX
